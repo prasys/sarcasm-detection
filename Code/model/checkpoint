@@ -1,2 +1,0 @@
-model_checkpoint_path: "/Users/pradeesh/Documents/LYNParser/Sarcasm_Detection_using_Tensorflow/model/sarcasm_model.ckpt"
-all_model_checkpoint_paths: "/Users/pradeesh/Documents/LYNParser/Sarcasm_Detection_using_Tensorflow/model/sarcasm_model.ckpt"

@@ -1,6 +1,0 @@
-0.35 using svm and SMOTE [Embeddings] - 0.67 recall score
-0.15 using logistic and SMOTE [Embeddings]
-
-
-
-0.15 using logistic and SMOTE [BOW]

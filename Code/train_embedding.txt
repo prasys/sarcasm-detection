@@ -1,1 +1,0 @@
-Tensor("module_apply_default_1/Encoder_en/hidden_layers/l2_normalize:0", shape=(950, 512), dtype=float32)
