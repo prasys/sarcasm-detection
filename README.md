@@ -1,9 +1,11 @@
 # Detecting Target of Sarcasm Using Ensemble Methods
-Code related to the ALTA's 2019 Shared Task - "Detecting Target of Sarcasm using Ensemble Methods". This was presented in ALTA's Conference. The link to the paper will be shared once it gets published in the ACL Proceedings - so that you may able to go through our design decision.
+Code related to the ALTA's 2019 Shared Task - "Detecting Target of Sarcasm using Ensemble Methods". This was presented in ALTA's Conference. 
+
+The link to the paper can be found -> http://bit.do/pradalta . Feel free to read the paper and to comment
 
 
 # What's this Read Me about ? 
-Basically , it is to give you an overview on what is this project about. Keep in mind that I've built this very quick and dirty way.
+Basically , it is to give you an overview on what is this project about. Keep in mind that I've built this very quick and dirty way. It is not in the best shape but I am trying to make sure that at least people can download it and make it easier for them to download and use it 
 
 
 ## Requirements
