@@ -14,7 +14,7 @@ Basically , it is to give you an overview on what is this project about. Keep in
 * pandas
 * ALTA 2019 Shared Data Challenge Dataset (Please kindly obtain for them) 
 
-Will update with pip requirements.txt so that you can have the exact one. I will make it easier for you all :)
+Will update with pip requirements.txt so that you can have the exact one. I will make it easier for you all :). At the moment , I apologize - you just need to go through the files for the imports and install the pip To make your life a bit easier , the major imports or the stuff that I use can be found in the following files below :) 
 
 ## What are the files for
 
